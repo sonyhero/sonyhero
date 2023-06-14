@@ -4,7 +4,7 @@ Hello and welcome to my GitHub page! I'm thrilled to have you here. Feel free to
 <br>
 
 * 🌍  I'm based in Minsk
-* 🖥️  See my portfolio at [sonyhero.github.io/portfolio/](http://sonyhero.github.io/portfolio)
+* 🖥️  See my portfolio at [sonyhero.github.io/portfolio](http://sonyhero.github.io/portfolio)
 * ✉️  You can contact me at [27anton06@gmail.com](mailto:27anton06@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 <br>
