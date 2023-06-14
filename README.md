@@ -1,4 +1,4 @@
-Hello there! (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anton Acharatniuk
+Hello there! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anton Acharatniuk
 ========================================================================================================================================
 Hello and welcome to my GitHub page! I'm thrilled to have you here. Feel free to browse through my repositories and projects, and don't hesitate to reach out if you have any questions or feedback. Thank you for visiting!
 <br>
