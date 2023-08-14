@@ -46,5 +46,5 @@ Hello and welcome to my GitHub page! I'm thrilled to have you here. Feel free to
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-acharatniuk)
 <hr>
 
-###CodeWars
-![codewars](https://www.codewars.com/users/AntonAcharatniuk/badges/large)(https://www.codewars.com/users/AntonAcharatniuk)
+### CodeWars
+[![codewars](https://www.codewars.com/users/AntonAcharatniuk/badges/large)](https://www.codewars.com/users/AntonAcharatniuk)
